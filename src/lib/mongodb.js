@@ -1,15 +1,15 @@
-// src/app/lib/mongodb.js
+
 import { MongoClient } from 'mongodb';
 
 const MONGODB_URI = process.env.MONGODB_URI;
 const MONGODB_DB = 'gta-cheat-db'; // replace with your MongoDB database name
 
 if (!MONGODB_URI) {
-  throw new Error('Please define the MONGODB_URI environment variable inside .env.local');
+  throw new Error('Tolong Masukkan URI MongoDB di .env.local!');
 }
 
 if (!MONGODB_DB) {
-  throw new Error('Please define the MONGODB_DB environment variable inside .env.local');
+  throw new Error('Tolong Masukkan Nama Database!');
 }
 
 let cachedClient = null;
