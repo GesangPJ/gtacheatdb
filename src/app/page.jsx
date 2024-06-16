@@ -22,11 +22,11 @@ const Home = () => {
     <div className="w-full px-4 sm:px-8 lg:px-16 min-h-[75vh] flex flex-col items-center mt-14">
       <div className="text-white">
         <h2 className="text-xl font-bold">
-          GTA SAN ANDREAS CHEATS PC AND PLAYSTATION&trade
+          GTA SAN ANDREAS CHEATS PC AND PLAYSTATION&trade;
         </h2>
       </div>
       <div className="text-white w-full flex flex-col items-center mt-6">
-        <h3 className="text-md font-bold">A. PC CHEATS</h3>
+        <h3 className="text-md font-bold">A. PC Version CHEATS</h3>
         {loading ? (
           <p>Loading...</p>
         ) : (
@@ -55,7 +55,7 @@ const Home = () => {
         )}
       </div>
       <div className="text-white w-full flex flex-col items-center mt-6">
-        <h3 className="text-md font-bold">B. PlayStation&trade CHEATS</h3>
+        <h3 className="text-md font-bold">B. PlayStation&trade; Version CHEATS</h3>
         {loading ? (
           <p>Loading...</p>
         ) : (
