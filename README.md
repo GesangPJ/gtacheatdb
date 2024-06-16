@@ -1,28 +1,8 @@
-## Getting Started
+# GTA CHEATS DATABASE
 
-First, install the dependencies:
-
-```bash
-npm install
-# or
-yarn install
-# or
-pnpm install
-# or
-bun install
-```
+A NextJS 14 Full Stack Web to provide cheats for some GTA Games.
+Using MongoDB to save the data, plain JSON available.
 
 
-run the development server:
+### Game List
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
