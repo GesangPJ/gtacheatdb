@@ -1,0 +1,152 @@
+[
+       {
+        "id":"1",
+        "code":"486-555-0150",
+        "details":"Gives You Weapon Tier #1"
+       },
+       {
+        "id":"2",
+        "code":"486-555-0100",
+        "details":"Gives You Weapon Tier #2"
+       },
+       {
+        "id":"3",
+        "code":"362-555-0100",
+        "details":"Max Health and Armor"
+       },
+       {
+        "id":"4",
+        "code":"482-555-0100",
+        "details":"Max Health, Weapon, Armor"
+       },
+       {
+        "id":"5",
+        "code":"468-555-0100",
+        "details":"Cycle between 8 weathers"
+       },
+       {
+        "id":"6",
+        "code":"267-555-0150",
+        "details":"Increase Wanted Level"
+       },
+       {
+        "id":"7",
+        "code":"267-555-0100",
+        "details":"Remove Wanted Level"
+       },
+       {
+        "id":"8",
+        "code":"359-555-0100",
+        "details":"Spawn Annihilator Helicopter"
+       },
+       {
+        "id":"9",
+        "code":"625-555-0150",
+        "details":"Spawn Sanchez Bike"
+       },
+       {
+        "id":"10",
+        "code":"625-555-0100",
+        "details":"Spawn NRG-900 Bike"
+       },
+       {
+        "id":"11",
+        "code":"227-555-0147",
+        "details":"Spawn Turismo Car"
+       },
+       {
+        "id":"12",
+        "code":"227-555-0168",
+        "details":"Spawn SuperGT Car"
+       },
+       {
+        "id":"13",
+        "code":"227-555-0100",
+        "details":"Spawn FIB Buffalo Car"
+       },
+       {
+        "id":"14",
+        "code":"227-555-0142",
+        "details":"Spawn Cognoscenti Car"
+       },
+       {
+        "id":"15",
+        "code":"227-555-0175",
+        "details":"Spawn Comet Car"
+       },
+       {
+        "id":"16",
+        "code":"938-555-0100",
+        "details":"Spawn Jetmax Boat"
+       },
+       {
+        "id":"17",
+        "code":"826-555-0100",
+        "details":"Spawn Slamvan Car"
+       },
+       {
+        "id":"18",
+        "code":"245-555-0125",
+        "details":"Spawn DoubleT Custom Bike"
+       },
+       {
+        "id":"19",
+        "code":"245-555-0199",
+        "details":"Spawn Hakuchou Custom Bike"
+       },
+       {
+        "id":"20",
+        "code":"245-555-0150",
+        "details":"Spawn Hexer Bike"
+       },
+       {
+        "id":"21",
+        "code":"245-555-0100",
+        "details":"Spawn Innovation Bike"
+       },
+       {
+        "id":"22",
+        "code":"826-555-0150",
+        "details":"Spawn Gang Burrito Car"
+       },
+       {
+        "id":"23",
+        "code":"625-555-0200",
+        "details":"Spawn Akuma Bike"
+       },
+       {
+        "id":"24",
+        "code":"625-555-3273",
+        "details":"Spawn Vader Bike"
+       },
+       {
+        "id":"25",
+        "code":"272-555-8265",
+        "details":"Spawn APC Tank"
+       },
+       {
+        "id":"26",
+        "code":"227-555-9666",
+        "details":"Spawn BulletGT Car"
+       },
+       {
+        "id":"27",
+        "code":"359-555-2899",
+        "details":"Spawn Buzzard Helicopter"
+       },
+       {
+        "id":"28",
+        "code":"938-555-0150",
+        "details":"Spawn Floater Boat"
+       },
+       {
+        "id":"29",
+        "code":"359-555-7272",
+        "details":"Give You Parachute"
+       },
+       {
+        "id":"30",
+        "code":"276-555-2666",
+        "details":"Gives You Super Punch"
+       }
+]
