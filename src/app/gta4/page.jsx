@@ -24,6 +24,20 @@ const GTA4 = () => {
         <h2 className="text-xl font-bold">
           GTA IV CHEATS
         </h2>
+        <div class="disclaimer text-white text-sm mt-9 mb-5">
+        <p>
+          Below is the instruction on how to use the cheat in GTA IV :
+          <ol class="mt-4">
+            <li>1. Open Your in-game phone.</li>
+            <li>2. Bring up the phone dial-pad.</li>
+            <li>3. Enter the code by calling the corresponding phone number from the cheat codes listed in the table. </li>
+          </ol>
+        </p><br />
+        <p>
+          For Player on PlayStation&trade; and XBOX&trade; are also have same insructions as above, the difference is only the button mapping.
+        </p>
+        
+      </div>
       </div>
       <div className="text-white w-full flex flex-col items-center mt-6">
         {loading ? (
