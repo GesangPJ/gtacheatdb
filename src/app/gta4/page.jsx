@@ -9,7 +9,7 @@ const GTA4 = () => {
 
   useEffect(() => {
     async function fetchCheats() {
-      const res = await fetch('/api/gta-sa')
+      const res = await fetch('/api/gta4')
       const data = await res.json()
       setCheats(data.data)
       setLoading(false)
@@ -50,6 +50,25 @@ const GTA4 = () => {
             </table>
           </div>
         )}
+      </div>
+      <div class="disclaimer text-white text-sm mt-9 mb-9">
+        <p>
+          <strong>Disclaimer:</strong> This website provides information about available cheats in various Grand Theft Auto (GTA) games. 
+          Grand Theft Auto is a trademark and copyright of Rockstar Games. 
+          Please be aware that using cheats may disable or lock game achievements and affect your gaming experience.
+        </p>
+        <p>
+          <strong>PlayStation</strong> and PlayStation-related trademarks are the property of Sony Interactive Entertainment Inc.
+        </p>
+        <p>
+        <strong>Xbox</strong> and Xbox-related trademarks are the property of Microsoft Corporation.
+        </p>
+        <p>
+          This website and website source code is not affiliated with, endorsed, sponsored, or specifically approved by Rockstar Games, Sony, or Microsoft.
+        </p>
+        <p>
+        All trademarks and copyrights are the property of their respective owners.
+        </p>
       </div>
     </div>
     </div>
