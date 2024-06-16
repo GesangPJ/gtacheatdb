@@ -1,0 +1,569 @@
+[
+        {
+            "id":"1"
+            ,"phrase":"INEEDSOMEHELP"
+            ,"code":"HESOYAM"
+            ,"details":"Add Health, Armor, +$250K Money",
+            "pscode":"R1, R2, L1, X, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, RIGHT, UP"
+        },
+        {
+            "id":"2",
+            "phrase":"FULLCLIP",
+            "code":"WANRLTW",
+            "details":"Infinite Ammo",
+            "pscode":"L1, R1, SQUARE, R1, LEFT, R2, R1, LEFT, SQUARE, DOWN, L1, L1"
+        },
+        {
+            "id":"3",
+            "phrase":"THUGSARMOURY",
+            "code":"LXGIWYL",
+            "details":"Give You Weapon set #1",
+            "pscode":"R1, R2, L1, R2, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, RIGHT, UP"
+        },
+        {
+            "id":"4",
+            "phrase":"PROFESSIONALSKIT",
+            "code":"KJKSZPJ",
+            "details":"Give You Weapon set #2",
+            "pscode":"R1, R2, L1, R2, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, DOWN, LEFT"
+        },
+        {
+            "id":"5",
+            "phrase":"NUTTERSTOYS",
+            "code":"UZUMYMW",
+            "details":"Give You Weapon set #3",
+            "pscode":"R1, R2, L1, R2, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, DOWN, DOWN"
+        },
+        {
+            "id":"6",
+            "phrase":"KANGAROO",
+            "code":"LFGMHAL",
+            "details":"High Jump",
+            "pscode":"UP, UP, TRIANGLE, TRIANGLE, UP, UP, LEFT, RIGHT, SQUARE, R2, R2"
+        },
+        {
+            "id":"7",
+            "phrase":"PROFESSIONALKILLER",
+            "code":"NCSGDAG",
+            "details":"All weapon stat max",
+            "pscode":"DOWN, SQUARE, X, LEFT, R1, R2, LEFT, DOWN, DOWN, L1, L1, L1"
+        },
+        {
+            "id":"8",
+            "phrase":"MANFROMATLANTIS",
+            "code":"CVWKXAM",
+            "details":"Infinite Oxygen",
+            "pscode":"DOWN, LEFT, L1, DOWN, DOWN, R2, DOWN, L2, DOWN"
+        },
+        {
+            "id":"9",
+            "phrase":"GOODBYECRUELWORLD",
+            "code":"SZCMAWO",
+            "details":"Kill Yourself",
+            "pscode":""
+        },
+        {
+            "id":"p10",
+            "phrase":"IWANNADRIVEBY",
+            "code":"OUIQDMW",
+            "details":"Weapon aiming in vehicles",
+            "pscode":"UP, UP, SQUARE, L2, RIGHT, X, R1, DOWN, R2, CIRCLE"
+        },
+        {
+            "id":"11",
+            "phrase":"NATURALTALENT",
+            "code":"VQIMAHA",
+            "details":"Max. Driving skill",
+            "pscode":""
+        },
+        {
+            "id":"12",
+            "phrase":"BUFFMEUP",
+            "code":"JYDSOD",
+            "details":"Max. Muscle",
+            "pscode":"TRIANGLE, UP, UP, LEFT, RIGHT, SQUARE, CIRCLE, LEFT"
+        },
+        {
+            "id":"13",
+            "phrase":"WHOATEALLTHEPIES",
+            "code":"BTCDBCB",
+            "details":"Max. Fat",
+            "pscode":"TRIANGLE, UP, UP, LEFT, RIGHT, SQUARE, CIRCLE, DOWN"
+        },
+        {
+            "id":"14",
+            "phrase":"WORSHIPME",
+            "code":"OGXSDAG",
+            "details":"Max. Respect",
+            "pscode":"L1, R1, TRIANGLE, DOWN, R2, X, L1, UP, L2, L2, L1, L1"
+        },
+        {
+            "id":"15",
+            "phrase":"ICANGOALLNIGHT",
+            "code":"VKYPQCF",
+            "details":"Max. Stamina",
+            "pscode":""
+        },
+        {
+            "id":"16",
+            "phrase":"ROCKETMAN",
+            "code":"YECGAA",
+            "details":"Give Player Jetpack",
+            "pscode":"L1, L2, R1, R2, UP, DOWN, LEFT, RIGHT, L1, L2, R1, R2, UP, DOWN, LEFT, RIGHT"
+        },
+        {
+            "id":"17",
+            "phrase":"NOONECANTHURTME",
+            "code":"BAGUVIX",
+            "details":"Invincible / immune from gunshot and fire",
+            "pscode":"Down, X, Right, Left, Right, R1, Right, Down, Up, Triangle"
+        },
+        {
+            "id":"18",
+            "phrase":"STINGLIKEABEE",
+            "code":"IAVENJQ",
+            "details":"Super Punch",
+            "pscode":"UP, LEFT, X, TRIANGLE, R1, SQUARE, SQUARE, SQUARE, L2"
+        },
+        {
+            "id":"19",
+            "phrase":"LEANANDMEAN",
+            "code":"KVGYZQK",
+            "details":"No Fat and Muscle / ",
+            "pscode":"TRIANGLE, UP, UP, LEFT, RIGHT, SQUARE, CIRCLE, RIGHT"
+        },
+        {
+            "id":"20",
+            "phrase":"HELLOLADIES",
+            "code":"EHIBXQS",
+            "details":"Max. Sex Appeal",
+            "pscode":"CIRCLE, TRIANGLE, TRIANGLE, UP, CIRCLE, R1, L2, UP, TRIANGLE, L1, L1, L1"
+        },
+        {
+            "id":"21",
+            "phrase":"TAKEACHILLPILL",
+            "code":"MUNASEF",
+            "details":"Give Adrenaline Effect",
+            "pscode":""
+        },
+        {
+            "id":"22",
+            "phrase":"IAMNEVERHUNGRY",
+            "code":"AEDUWNV",
+            "details":"Never makes you hungry again",
+            "pscode":"SQUARE, L2, RB, TRIANGLE, UP, SQUARE, L2, UP, X"
+        },
+        {
+            "id":"23",
+            "phrase":"LETSGOBASEJUMPING",
+            "code":"AIYPWZQP",
+            "details":"Give You A Parachute",
+            "pscode":"LEFT, RIGHT, L1, L2, R1, R2, R2, UP, DOWN, RIGHT, L1"
+        },
+        {
+            "id":"24",
+            "phrase":"IDOASIPLEASE",
+            "code":"AEZAKMI",
+            "details":"Lock Your Wanted Level To Current State",
+            "pscode":"Circle, Right, Circle, Right, Left, Square, Triangle, Up"
+        },
+        {
+            "id":"25",
+            "phrase":"TURNUPTHEHEAT",
+            "code":"OSRBLHH",
+            "details":"Raise Your Wanted Level By 2 Levels",
+            "pscode":"R1, R1, CIRCLE, R2, LEFT, RIGHT, LEFT, RIGHT, LEFT, RIGHT"
+        },
+        {
+            "id":"26",
+            "phrase":"TURNDOWNTHEHEAT",
+            "code":"ASNAEB",
+            "details":"Remove Your Wanted Level",
+            "pscode":"R1, R1, CIRCLE, R2, UP, DOWN, UP, DOWN, UP, DOWN"
+        },
+        {
+            "id":"27",
+            "phrase":"BRINGITON",
+            "code":"LJSPQK",
+            "details":"Max. Wanted Level",
+            "pscode":"CIRCLE, RIGHT, CIRCLE, RIGHT, LEFT, SQUARE, X, DOWN"
+        },
+        {
+            "id":"28",
+            "phrase":"FLYINGFISH",
+            "code":"AFSNMSMW",
+            "details":"Makes Your Boat Fly",
+            "pscode":"R2, CIRCLE, UP, L1, RIGHT, R1, RIGHT, UP, SQUARE, TRIANGLE"
+        },
+        {
+            "id":"29",
+            "phrase":"CJPHONEHOME",
+            "code":"JHJOECW",
+            "details":"Ability To Jump Higher On Bikes",
+            "pscode":""
+        },
+        {
+            "id":"30",
+            "phrase":"SPEEDFREAK",
+            "code":"COXEFGU",
+            "details":"All Cars Have Nitrous",
+            "pscode":"LEFT, TRIANGLE, R1, L1, UP, SQUARE, TRIANGLE, DOWN, CIRCLE, L2, L1, L1"
+        },
+        {
+            "id":"31",
+            "phrase":"TOUCHMYCARYOUDIE",
+            "code":"JCNRUAD",
+            "details":"Makes Your Current Car Invincible",
+            "pscode":""
+        },
+        {
+            "id":"32",
+            "phrase":"BUBBLECARS",
+            "code":"BSXSGGC",
+            "details":"Cars floating when get hit",
+            "pscode":"SQUARE, R2, DOWN, DOWN, LEFT, DOWN, LEFT, LEFT L2, X"
+        },
+        {
+            "id":"33",
+            "phrase":"ALLCARSGOBOOM",
+            "code":"CPKTNWT",
+            "details":"Destroy All Cars (including yours)",
+            "pscode":"R2, L2, R1, L1, L2, R2, SQUARE, TRIANGLE, CIRCLE, TRIANGLE, L2, L1"
+        },
+        {
+            "id":"34",
+            "phrase":"OLDSPEEDDEMON",
+            "code":"CQZIJMB",
+            "details":"Spawn Bloodring Banger Car",
+            "pscode":"DOWN, R1, CIRCLE, L2, L2, X, R1, L1, LEFT, LEFT"
+        },
+        {
+            "id":"35",
+            "phrase":"18HOLES",
+            "code":"RZHSUEW",
+            "details":"Spawn Gold Caddy",
+            "pscode":"CIRCLE, L1, UP, R1, L2, X, R1, L1, CIRCLE, X"
+        },
+        {
+            "id":"36",
+            "phrase":"VROCKPOKEY",
+            "code":"PDNEJOH",
+            "details":"Spawn Hotring Race Car #1",
+            "pscode":"R1, CIRCLE, R2, RIGHT, L1, L2, X, X, SQUARE, R1"
+        },
+        {
+            "id":"37",
+            "phrase":"JUSTTRYANDSTOPME",
+            "code":"VPJTQWV",
+            "details":"Spawn Hotring Race Car #2",
+            "pscode":"R2, L1, CIRCLE, RIGHT, L1, R1, RIGHT, UP, CIRCLE, R2"
+        },
+        {
+            "id":"38",
+            "phrase":"MONSTERMASH",
+            "code":"AGBDLCID",
+            "details":"Spawn Monster Truck",
+            "pscode":"RIGHT, UP, R1, R1, R1, DOWN, TRIANGLE, TRIANGLE, X, CIRCLE, L1, L1"
+        },
+        {
+            "id":"39",
+            "phrase":"CHITTYCHITTYBANGBANG",
+            "code":"RIPAZHA",
+            "details":"All Cars Can Fly",
+            "pscode":"SQUARE, DOWN, L2, UP, L1, CIRCLE, UP, X, LEFT"
+        },
+        {
+            "id":"40",
+            "phrase":"WHEELSONFLYPLEASE",
+            "code":"XICWMD",
+            "details":"Invisible car (only wheels)",
+            "pscode":"TRIANGLE, L1, TRIANGLE, R2, SQUARE, L1, L1"
+        },
+        {
+            "id":"41",
+            "phrase":"ITSABULL",
+            "code":"EEGCYXT",
+            "details":"Spawn A Bulldozer",
+            "pscode":"R2, L1, L1, RIGHT, RIGHT, UP, UP, X, L1, LEFT"
+        },
+        {
+            "id":"42",
+            "phrase":"OHDUDE",
+            "code":"-",
+            "details":"Spawn Hunter Helicopter",
+            "pscode":"CIRCLE, X, L1, CIRCLE, CIRCLE, L1, CIRCLE, R1 R2, L2, L1, L1"
+        },
+        {
+            "id":"43",
+            "phrase":"JUMPJET",
+            "code":"-",
+            "details":"Spawn Hydra Jet",
+            "pscode":"TRIANGLE, TRIANGLE, SQUARE, CIRCLE, X, L1, L1, DOWN, UP"
+        },
+        {
+            "id":"44",
+            "phrase":"TIMETOKICKASS",
+            "code":"AIWPRTON",
+            "details":"Spawn Rhino Tank",
+            "pscode":"CIRCLE, CIRCLE, L1, CIRCLE, CIRCLE, CIRCLE, L1, L2, R1, TRIANGLE, CIRCLE, TRIANGLE"
+        },
+        {
+            "id":"45",
+            "phrase":"DOUGHNUTHANDICAP",
+            "code":"JQNTDMH",
+            "details":"Spawn Rancher",
+            "pscode":"UP, RIGHT, RIGHT, L1, RIGHT, UP, SQUARE, L2"
+        },
+        {
+            "id":"46",
+            "phrase":"WHERESTHEFUNERAL",
+            "code":"AQTBCODX",
+            "details":"Spawn Romero Car",
+            "pscode":"DOWN, R2, DOWN, R1, L2, LEFT, R1, L1, LEFT, RIGHT"
+        },
+        {
+            "id":"47",
+            "phrase":"IWANTHOVER",
+            "code":"KGGGDKP",
+            "details":"Spawn Vortex Hovercraft",
+            "pscode":"TRIANGLE, TRIANGLE, SQUARE, CIRCLE, X, L1, L2, DOWN, DOWN"
+        },
+        {
+            "id":"48",
+            "phrase":"TRUEGRIME",
+            "code":"UBHYZHQ",
+            "details":"Spawn Trashmaster Trash Truck",
+            "pscode":"CIRCLE, R1, CIRCLE, R1, LEFT, LEFT, R1, L1, CIRCLE, RIGHT"
+        },
+        {
+            "id":"49",
+            "phrase":"STICKLIKEGLUE",
+            "code":"PGGOMOY",
+            "details":"All Cars Have Perfect Handling",
+            "pscode":"TRIANGLE, R1, R1, LEFT, R1, L1, R2, L1"
+        },
+        {
+            "id":"50",
+            "phrase":"FOURWHEELFUN",
+            "code":"AKJJYGLC",
+            "details":"Spawn Quadbike",
+            "pscode":"LEFT, LEFT, DOWN, DOWN, UP, UP, SQUARE, CIRCLE, TRIANGLE, R1, R2"
+        },
+        {
+            "id":"51",
+            "phrase":"ROCKETMAYHEM",
+            "code":"ZSOXFSQ",
+            "details":"Recruit Anyone And Have Rocket Launcher",
+            "pscode":"R2, R2, R2, X, L2, L1, R1, L2, DOWN, X"
+        },
+        {
+            "id":"52",
+            "phrase":"NOONECANSTOPUS",
+            "code":"BMTPWHR",
+            "details":"Recruit Anyone And Have AK-47",
+            "pscode":""
+        },
+        {
+            "id":"53",
+            "phrase":"WANNABEINMYGANG",
+            "code":"SJMAHPE",
+            "details":"Recruit Anyone And Have Pistol",
+            "pscode":"DOWN, SQUARE, UP, R2, R2, UP, RIGHT, RIGHT, UP"
+        },
+        {
+            "id":"54",
+            "phrase":"ONLYHOMIESALLOWED",
+            "code":"MROEMZH",
+            "details":"Spawn Gang Members Everywhere",
+            "pscode":"LEFT, RIGHT, RIGHT, RIGHT, LEFT, X, DOWN, UP, SQUARE, RIGHT, DOWN"
+        },
+        {
+            "id":"55",
+            "phrase":"BETTERSTAYINDOORS",
+            "code":"BIFBUZZ",
+            "details":"All Gangs Rule The Streets",
+            "pscode":"L2, UP, R1, R1, LEFT, R1, R1, R2, RIGHT, DOWN"
+        },
+        {
+            "id":"56",
+            "phrase":"ROUGHNEIGHBOURHOOD",
+            "code":"AJLOJYQY",
+            "details":"Chaos in Pedestrian",
+            "pscode":"L2, RIGHT, L1, TRIANGLE, RIGHT, RIGHT, R1, L1, RIGHT, L1, L1, L1"
+        },
+        {
+            "id":"57",
+            "phrase":"STATEOFEMERGENCY",
+            "code":"IOJUFZN",
+            "details":"Pedestrian Riot",
+            "pscode":"DOWN, LEFT, UP, LEFT, X, R2, R1, L2, L"
+        },
+        {
+            "id":"58",
+            "phrase":"STOPKICKINGONME",
+            "code":"BAGOWPG",
+            "details":"Pedestrian Attacking Player",
+            "pscode":"DOWN, UP, UP, UP, X, R2, R1, L2, L2"
+        },
+        {
+            "id":"59",
+            "phrase":"ATTACKOFTHEVILLAGEPEOPLE",
+            "code":"BGLUAWML",
+            "details":"Pedestrial Attacking Player With Guns",
+            "pscode":"X, L1, UP, SQUARE, DOWN, X, L2, TRIANGLE, DOWN, R1, L1, L1"
+        },
+        {
+            "id":"60",
+            "phrase":"LIFESABEACH",
+            "code":"CIKGCGX",
+            "details":"Pedestrian In Beach Themes",
+            "pscode":"UP, UP, DOWN, DOWN, SQUARE, CIRCLE, L1, R1, TRIANGLE, DOWN"
+        },
+        {
+            "id":"61",
+            "phrase":"SURROUNDEDBYNUTTERS",
+            "code":"FOOXFT",
+            "details":"All Pedestrian Have Guns",
+            "pscode":"R2, R1, X, TRIANGLE, X, TRIANGLE, UP, DOWN"
+        },
+        {
+            "id":"62",
+            "phrase":"CRAZYTOWN",
+            "code":"PRIEBJ",
+            "details":"Pedestrian In Carnival Themes",
+            "pscode":"TRIANGLE, TRIANGLE, L1, SQUARE, SQUARE, CIRCLE, SQUARE, DOWN, CIRCLE"
+        },
+        {
+            "id":"63",
+            "phrase":"LOVECONQUERSALL",
+            "code":"BEKKNQV",
+            "details":"Pedestrian In Pimp Themes",
+            "pscode":"SQUARE, RIGHT, SQUARE, SQUARE, L2, X, TRIANGLE, X, TRIANGLE"
+        },
+        {
+            "id":"64",
+            "phrase":"GHOSTTOWN",
+            "code":"THGLOJ",
+            "details":"Despawn All Traffic And Pedestrian",
+            "pscode":"X, DOWN, UP, R2, DOWN, TRIANGLE, L1, TRIANGLE, LEFT"
+        },
+        {
+            "id":"65",
+            "phrase":"NINJATOWN",
+            "code":"AFPHULTL",
+            "details":"Pedestrian In Triad Themes",
+            "pscode":"X, X, DOWN, R2, L2, CIRCLE, R1, CIRCLE, SQUARE"
+        },
+        {
+            "id":"66",
+            "phrase":"HICKSVILLE",
+            "code":"FVTMNBZ",
+            "details":"Pedestrian In Rural Themes",
+            "pscode":"1, L1, R1, R1, L2, L1, R2, DOWN, LEFT, UP"
+        },
+        {
+            "id":"67",
+            "phrase":"ALLDRIVERSARECRIMINALS",
+            "code":"YLTEICZ",
+            "details":"All Drivers Become Aggresive",
+            "pscode":"R2, CIRCLE, R1, L2, LEFT, R1, L1, R2, L2"
+        },
+        {
+            "id":"68",
+            "phrase":"SOLONGASSITSBLACK",
+            "code":"IOWDLAC",
+            "details":"Only Black Cars Spawned",
+            "pscode":"CIRCLE, L2, UP, R1, LEFT, X, R1, L1, LEFT, CIRCLE"
+        },
+        {
+            "id":"69",
+            "phrase":"PINKISTHENEWCOOL",
+            "code":"LLQPFBN",
+            "details":"Only Pink Cars Spawned",
+            "pscode":"CIRCLE, L1, DOWN, L2, LEFT, X, R1, L1, RIGHT, CIRCLE"
+        },
+        {
+            "id":"70",
+            "phrase":"EVERYONEISPOOR",
+            "code":"BGKGTJH",
+            "details":"Spawn Only Cheap Cars",
+            "pscode":"L2, RIGHT, L1, UP, X, L1, L2, R2, R1, L1, L1, L1"
+        },
+        {
+            "id":"71",
+            "phrase":"EVERYONEISRICH",
+            "code":"GUSNDHE",
+            "details":"Spawn Only Expensive Cars",
+            "pscode":"UP, L1, R1, UP, RIGHT, UP, X, L2, X, L1"
+        },
+        {
+            "id":"72",
+            "phrase":"SPEEDITUP",
+            "code":"PPGWJHT",
+            "details":"Increasing Game Speed",
+            "pscode":"TRIANGLE, UP, RIGHT, DOWN, L2, L1, SQUARE"
+        },
+        {
+            "id":"73",
+            "phrase":"TIMEJUSTFLIESBY",
+            "code":"YSOHNUL",
+            "details":"Increasing Time Speed",
+            "pscode":"CIRCLE, CIRCLE, L1, SQUARE, L1, SQUARE, SQUARE, SQUARE, L1, TRIANGLE, CIRCLE, TRIANGLE"
+        },
+        {
+            "id":"74",
+            "phrase":"SLOWITDOWN",
+            "code":"LIYOAAY",
+            "details":"Decreasing Game Speed",
+            "pscode":"TRIANGLE, UP, RIGHT, DOWN, SQUARE, R2, R1"
+        },
+        {
+            "id":"75",
+            "phrase":"DONTBRINGONTHENIGHT",
+            "code":"OFVIAC",
+            "details":"Game Time Locked on 9:00 PM (21:00)",
+            "pscode":"LEFT, LEFT, L2, R1, RIGHT, SQUARE, SQUARE, L1, L2, X"
+        },
+        {
+            "id":"76",
+            "phrase":"NIGHTPROWLER",
+            "code":"XJVSNAJ",
+            "details":"Game Time Locked on Midnight (OO:00)",
+            "pscode":"SQUARE, L1, R1, RIGHT, X, UP, L1, LEFT, LEFT"
+        },
+        {
+            "id":"77",
+            "phrase":"DULLDULLDAY",
+            "code":"ALNSFMZO",
+            "details":"Set Weather To Cloudy",
+            "pscode":"L2, DOWN, DOWN, LEFT, SQUARE, LEFT, R2, SQUARE, X, R1, L1, L1"
+        },
+        {
+            "id":"78",
+            "phrase":"STAYINANDWATCHTV",
+            "code":"AUIFRVQS",
+            "details":"Set Weather To Rainy/Storm",
+            "pscode":"R2, X, L1, L1, L2, L2, L2, CIRCLE"
+        },
+        {
+            "id":"79",
+            "phrase":"CANTSEEWHEREIMGOING",
+            "code":"CFVGMJ",
+            "details":"Set Weather To Foggy",
+            "pscode":"R2, X, L1, L1, L2, L2, L2, X"
+        },
+        {
+            "id":"80",
+            "phrase":"SCOTTISHSUMMER",
+            "code" :"MGHXYRM",
+            "details":"Set Weather To Sunny",
+            "pscode":"R2, X, L1, L1, L2, L2, L2, SQUARE"
+        },
+        {
+            "id":"81",
+            "phrase":"TOODAMNHOT",
+            "code":"ICIKPYH",
+            "details":"Set Weather To Clear",
+            "pscode":"R2, X, L1, L1, L2, L2, L2, DOWN"
+        }
+]
