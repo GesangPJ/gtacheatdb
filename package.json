@@ -1,6 +1,6 @@
 {
   "name": "GTA CHEATS DATABASE",
-  "version": "0.1.0",
+  "version": "0.5.0",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -14,7 +14,8 @@
     "mongoose": "^8.4.1",
     "next": "^14.2.4",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.2.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
