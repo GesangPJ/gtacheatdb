@@ -1,0 +1,275 @@
+[
+    {
+        "id":"1",
+        "phrase":"TURTLE",
+        "phonecode":"1-999-837-853",
+        "xboxcode":"B, LB, Y, RT, A, X, B, Right, X, LB, LB, LB",
+        "pscode":"Circle, L1, Triangle, R2, X, Square, Circle, Right, Square, L1, L1, L1",
+        "details":"Maximum Health And Armor"
+    },
+    {
+        "id":"2",
+        "phrase":"TOOLUP",
+        "phonecode":"1-999-866-587",
+        "xboxcode":"Y, RT, Left, LB, A, Right, Y, Down, X, LB, LB, LB",
+        "pscode":"Triangle, R2, Left, L1, X, Right, Triangle, Down, Square, L1, L1, L1",
+        "details":"Give All Weapons + Full Ammo"
+    },
+    {
+        "id":"3",
+        "phrase":"FUGITIVE",
+        "phonecode":"1-999-3844-8483",
+        "xboxcode":"RB, RB, B, RT, Left, Right, Left, Right, Left, Right",
+        "pscode":"R1, R1, Circle, R2, Left, Right, Left, Right, Left, Right",
+        "details":"Raise Your Wanted Level"
+    },
+    {
+        "id":"4",
+        "phrase":"LAWYERUP",
+        "phonecode":"1-999-5299-3787",
+        "xboxcode":"RB, RB, B, RT, Right, Left, Right, Left, Right, Left",
+        "pscode":"R1, R1, Circle, R2, Right, Left, Right, Left, Right, Left",
+        "details":"Lower Your Wanted Level"
+    },
+    {
+        "id":"5",
+        "phrase":"SKYDIVE",
+        "phonecode":"1-999-759-3483",
+        "xboxcode":"Left, Right, LB, LT, RB, RT, RT, Left, Left, Right, LB",
+        "pscode":"Left, Right, L1, L2, R1, R2, R2, Left, Left, Right, L1",
+        "details":"Gives You a Parachute"
+    },
+    {
+        "id":"6",
+        "phrase":"PAINKILLER",
+        "phonecode":"1-999-7246-545-537",
+        "xboxcode":"Right, A, Right, Left, Right, RB, Right, Left, A, Y",
+        "pscode":"Right, X, Right, Left, Right, R1, Right, Left, X, Triangle",
+        "details":"God Mode"
+    },
+    {
+        "id":"7",
+        "phrase":"POWERUP",
+        "phonecode":"1-999-769-3787",
+        "xboxcode":"A, A, X, RB, LB, A, Right, Left, A",
+        "pscode":"X, X, Square, R1, L1, X, Right, Left, X",
+        "details":"Recharge Player Special Ability"
+    },
+    {
+        "id":"8",
+        "phrase":"HIGHEX",
+        "phonecode":"1-999-444-439",
+        "xboxcode":"Right, X, A, Left, RB, RT, Left, Right, Right, LB, LB, LB",
+        "pscode":"Right, Square, X, Left, R1, R2, Left, Right, Right, L1, L1, L1",
+        "details":"Gives You Explosive Bullets"
+    },
+    {
+        "id":"9",
+        "phrase":"INCENDIARY",
+        "phonecode":"1-999-462-363-4279",
+        "xboxcode":"LB, RB, X, RB, Left, RT, RB, Left, X, Right, LB, LB",
+        "pscode":"L1, R1, Square, R1, Left, R2, R1, Left, Square, Right, L1, L1",
+        "details":"Gives You Flaming Bullets"
+    },
+    {
+        "id":"10",
+        "phrase":"HOTHANDS",
+        "phonecode":"1-999-4684-2637",
+        "xboxcode":"Right, Left, A, Y, RB, B, B, B, LT",
+        "pscode":"Right, Left, X, Triangle, R1, Circle, Circle, Circle, L2",
+        "details":"Gives You Super Punch"
+    },
+    {
+        "id":"11",
+        "phrase":"GOTGILLS",
+        "phonecode":"1-999-4684-4557",
+        "xboxcode":"Left, Left, LB, Right, Right, RT, Left, LT, Right",
+        "pscode":"Left, Left, L1, Right, Right, R2, Left, L2, Right",
+        "details":"Faster Swimming"
+
+    },
+    {
+        "id":"12",
+        "phrase":"CATCHME",
+        "phonecode":"1-999-2288-463",
+        "xboxcode":"Y, Left, Right, Right, LT, LB, X",
+        "pscode":"Triangle, Left, Right, Right, L2, L1, Square",
+        "details":"Run Faster"
+    },
+    {
+        "id":"13",
+        "phrase":"LIQUOR",
+        "phonecode":"1-999-547-861",
+        "xboxcode":"Y, Right, Right, Left, Right, X, B, Left",
+        "pscode":"Triangle, Right, Right, Left, Right, Square, Circle, Left",
+        "details":"Drunk Mode"
+    },
+    {
+        "id":"14",
+        "phrase":"FLOATER",
+        "phonecode":"1-999-356-2837",
+        "xboxcode":"Left, Left, LB, RB, LB, Right, Left, LB, Left",
+        "pscode":"Left, Left, L1, R1, L1, Right, Left, L1, Left",
+        "details":"Lower Gravity"
+    },
+    {
+        "id":"15",
+        "phrase":"HOPTOIT",
+        "phonecode":"1-999-467-8648",
+        "xboxcode":"Left, Left, Y, Y, Right, Right, Left, Right, X, RB, RT",
+        "pscode":"Left, Left, Triangle, Triangle, Right, Right, Left, Right, Square, R1, R2",
+        "details":"Super Jump"
+    },
+    {
+        "id":"16",
+        "phrase":"DEADEYE",
+        "phonecode":"1-999-3323-393",
+        "xboxcode":"X, LT, RB, Y, Left, X, LT, Right, A",
+        "pscode":"Square, L2, R1, Triangle, Left, Square, L2, Right, X",
+        "details":"Slow Motion While Aiming"
+    },
+    {
+        "id":"17",
+        "phrase":"SKYFALL",
+        "phonecode":"1-999-759-3255",
+        "xboxcode":"LB, LT, RB, RT, Left, Right, Left, Right, LB, LT, RB, RT, Left, Right, Left, Right",
+        "pscode":"L1, L2, R1, R2, Left, Right, Left, Right, L1, L2, R1, R2, Left, Right, Left, Right",
+        "details":"Falling From The Sky"
+    },
+    {
+        "id":"18",
+        "phrase":"MAKEITRAIN",
+        "phonecode":"1-999-625-348-7246",
+        "xboxcode":"RT, A, LB, LB, LT, LT, LT, X",
+        "pscode":"R2, X, L1, L1, L2, L2, L2, Square",
+        "details":"Change / Cycle The Weather"
+    },
+    {
+        "id":"19",
+        "phrase":"SLOWMO",
+        "phonecode":"1-999-756-966",
+        "xboxcode":"Y, Left, Right, Right, X, RT, RB",
+        "pscode":"Triangle, Left, Right, Right, Square, R2, R1",
+        "details":"Slow Motion For Movement"
+    },
+    {
+        "id":"20",
+        "phrase":"SNOWDAY",
+        "phonecode":"1-999-7669-329",
+        "xboxcode":"Y, RB, RB, Left, RB, LB, RT, LB",
+        "pscode":"Triangle, R1, R1, Left, R1, L1, R2, L1",
+        "details":"Reduce Vehicle Handling"
+    },
+    {
+        "id":"21",
+        "phrase":"HOLEIN1",
+        "phonecode":"1-999-4653-461",
+        "xboxcode":" B, LB, Left, RB, LT, A, RB, LB, B, A",
+        "pscode":"Circle, L1, Left, R1, L2, X, R1, L1, Circle, X",
+        "details":"Spawn Golf Caddy"
+    },
+    {
+        "id":"22",
+        "phrase":"OFFROAD",
+        "phonecode":"1-999-633-7623",
+        "xboxcode":"B, A, LB, B, B, LB, B, RB, RT, LT, LB, LB",
+        "pscode":"Circle, X, L1, Circle, Circle, L1, Circle, R1, R2, L2, L1, L1",
+        "details":"Spawn Sanchez Bike"
+    },
+    {
+        "id":"23",
+        "phrase":"ROCKET",
+        "phonecode":"1-999-762-538",
+        "xboxcode":" RB, Right, Left, Right, RT, Left, Right, X, Right, LT, LB, LB",
+        "pscode":"R1, Right, Left, Right, R2, Left, Right, Square, Right, L2, L1, L1",
+        "details":"Spawn PCJ-600 Bike"
+    },
+    {
+        "id":"24",
+        "phrase":"BANDIT",
+        "phonecode":"1-999-226-348",
+        "xboxcode":"Left, Left, Right, Right, Left, Right, X, B, Y, RB, RT",
+        "pscode":" Left, Left, Right, Right, Left, Right, Square, Circle, Triangle, R1, R2",
+        "details":"Spawn BMX Bike"
+    },
+    {
+        "id":"25",
+        "phrase":"BUZZOFF",
+        "phonecode":"1-999-2899-633",
+        "xboxcode":"B, B, LB, B, B, B, LB, LT, RB, Y, B, Y",
+        "pscode":" Circle, Circle, L1, Circle, Circle, Circle, L1, L2, R1, Triangle, Circle, Triangle",
+        "details":"Spawn Buzzard Helicopter"
+    },
+    {
+        "id":"26",
+        "phrase":"VINEWOOD",
+        "phonecode":"1-999-8463-9663",
+        "xboxcode":"RT, Right, LT, Left, Left, RB, LB, B, Right",
+        "pscode":" R2, Right, L2, Left, Left, R1, L1, Circle, Right",
+        "details":"Spawn Stretch Limousine"
+    },
+    {
+        "id":"27",
+        "phrase":"RAPIDGT",
+        "phonecode":"1-999-727-4348",
+        "xboxcode":"RT, RT, LB, B, Right, LB, RB, Right, Left, B, RT",
+        "pscode":" R2, R2, L1, Circle, Right, L1, R1, Right, Left, Circle, R2",
+        "details":"Spawn RapidGT Car"
+    },
+    {
+        "id":"28",
+        "phrase":"COMET",
+        "phonecode":"1-999-226-348",
+        "xboxcode":"RB, B, RT, Right, LB, LT, A, A, X, RB",
+        "pscode":" R1, Circle, R2, Right, L1, L2, X, X, Square, R1",
+        "details":"Spawn Comet Car"
+    },
+    {
+        "id":"29",
+        "phrase":"TRASHED",
+        "phonecode":"1-999-8727-433",
+        "xboxcode":"B, RB, B, RB, Left, Left, RB, LB, B, Right",
+        "pscode":" Circle, R1, Circle, R1, Left, Left, R1, L1, Circle, Right",
+        "details":"Spawn Garbage Truck"
+    },
+    {
+        "id":"30",
+        "phrase":"BUBBLES",
+        "phonecode":"1-999-282-2537",
+        "xboxcode":"Phone Only.",
+        "pscode":" Phone Only.",
+        "details":"Spawn Submarine"
+    },
+    {
+        "id":"31",
+        "phrase":"EXTINCT",
+        "phonecode":"1-999-398-4628",
+        "xboxcode":"Phone Only.",
+        "pscode":" Phone Only.",
+        "details":"Spawn Dodo Sea Plane"
+    },
+    {
+        "id":"32",
+        "phrase":"DEATHCAR",
+        "phonecode":"1-999-3328-4227",
+        "xboxcode":"Phone Only.",
+        "pscode":" Phone Only.",
+        "details":"Spawn Duke O'Death armored Car"
+    },
+    {
+        "id":"33",
+        "phrase":"BARNSTORM",
+        "phonecode":"1-999-227-678-676",
+        "xboxcode":"B, Right, LB, LT, Left, RB, LB, LB, Left, Left, A, Y",
+        "pscode":" Circle, Right, L1, L2, Left, R1, L1, L1, Left, Left, X, Triangle",
+        "details":"Spawn Mallard Plane"
+    },
+    {
+        "id":"34",
+        "phrase":"FLYSPRAY",
+        "phonecode":"1-999-3597-7729",
+        "xboxcode":"Right, Left, RB, RB, RB, Left, Y, Y, A, B, LB, LB",
+        "pscode":"Right, Left, R1, R1, R1, Left, Triangle, Triangle, X, Circle, L1, L1",
+        "details":"Spawn Crop Duster Plane"
+    }
+]
