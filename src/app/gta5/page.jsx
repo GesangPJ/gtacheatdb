@@ -40,8 +40,9 @@ const GTA5 = () => {
             </p><br />
       </div>
       </div>
-      <h3 className="text-xl font-bold">
-          PhoneCode & Phrase Cheat Table (All Platforms For Phonecode)
+      {/* PC And All Platform Cheat Table */}
+      <h3 className="text-xl font-bold text-white">
+          A. PhoneCode & Phrase Cheat Table (All Platforms For Phonecode)
         </h3>
       <div className="text-white w-full flex flex-col items-center mt-6">
         {loading ? (
@@ -71,9 +72,9 @@ const GTA5 = () => {
           </div>
         )}
       </div>
-
-      <h3 className="text-xl font-bold">
-          XBOX Version (XBOX One & One X)
+{/* XBOX Cheat Table */}
+      <h3 className="text-xl font-bold text-white">
+          B. XBOX Version (XBOX One & One X)
         </h3>
       <div className="text-white w-full flex flex-col items-center mt-6">
         {loading ? (
@@ -101,9 +102,9 @@ const GTA5 = () => {
           </div>
         )}
       </div>
-
-      <h3 className="text-xl font-bold">
-          PlayStation Version (PS4 & PS5)
+{/* PlayStation Cheat Table */}
+      <h3 className="text-xl font-bold text-white">
+          C. PlayStation Version (PS4 & PS5)
         </h3>
       <div className="text-white w-full flex flex-col items-center mt-6">
         {loading ? (
