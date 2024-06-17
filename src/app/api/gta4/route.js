@@ -1,4 +1,4 @@
-// src/app/api/pc/route.js
+// Api to get GTA IV Cheats from MongoDB
 import { connectToDatabase } from '@/lib/mongodb';
 import { NextResponse } from 'next/server';
 
