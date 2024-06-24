@@ -9,7 +9,7 @@ const GTA3 = () => {
 
   useEffect(() => {
     async function fetchCheats() {
-      const res = await fetch('/api/gta5')
+      const res = await fetch('/api/gta3')
       const data = await res.json()
       setCheats(data.data)
       setLoading(false)
@@ -124,7 +124,7 @@ const GTA3 = () => {
 
       {/* Nintendo Switch Cheat Table */}
       <h3 className="text-xl font-bold text-white">
-          C. Nintendo Switch Version
+          D. Nintendo Switch Version
         </h3>
       <div className="text-white w-full flex flex-col items-center mt-6">
         {loading ? (
