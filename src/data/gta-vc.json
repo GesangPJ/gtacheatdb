@@ -1,0 +1,418 @@
+[
+    {
+        "id":"1",
+        "code":"ASPIRINE",
+        "pscode":"R1, R2, L1, CIRCLE, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, RIGHT, UP",
+        "xboxcode":" RB, RB, B, RT, Up, Down, Up, Down, Up, Down",
+        "switchcode":"R, ZR, L, A, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, RIGHT UP",
+        "details":"Full Health"
+    },
+    {
+        "id":"2",
+        "code":"PRECIOUSPROTECTION",
+        "pscode":"R1, R2, L1, X, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, RIGHT, UP",
+        "xboxcode":"RB, RT, LB, A, Left, Down, Right, Up, Left, Down, Right, Up",
+        "switchcode":"R, ZR, L, B, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, RIGHT UP",
+        "details":"Full Armour"
+    },
+    {
+        "id":"3",
+        "code":"SEAWAYS",
+        "pscode":"RIGHT, R2, CIRCLE, R1, L2, SQUARE, R1, R2",
+        "xboxcode":"Right, RT, B, RB, LT, X, RB, RT",
+        "switchcode":"RIGHT, ZR, A, R, ZL, Y, R, ZR",
+        "details":"Car can drive on water"
+    },
+    {
+        "id":"4",
+        "code":"GRIPISEVERYTHING",
+        "pscode":"TRIANGLE, R1, R1, LEFT, R1, L1, R2, L1",
+        "xboxcode":"Y, RB, RB, Left, RB, LB, RT, LB",
+        "switchcode":"X, R, R, LEFT, R, L, ZR, L",
+        "details":"Increase Handling"
+    },
+    {
+        "id":"5",
+        "code":"ICANTTAKEITANYMORE",
+        "pscode":"RIGHT, L2, DOWN, R1, LEFT, LEFT, R1, L1, L2, L1.",
+        "xboxcode":"Right, LT, Down, RB, Left, Left, RB, LB, LT, LB",
+        "switchcode":"RIGHT, ZL, DOWN, R, LEFT, LEFT, R, L, ZL, L",
+        "details":"Kill Yourself"
+    },
+    {
+        "id":"6",
+        "code":"COMEFLYWITHME",
+        "pscode":"RIGHT, R2, CIRCLE, R1, L2, DOWN, L1, R1",
+        "xboxcode":"Right, RT, B, RB, LT, X, RB, RT",
+        "switchcode":"RIGHT, ZR, A, R, ZL, DOWN, L, R",
+        "details":"Flying Cars"
+    },
+    {
+        "id":"7",
+        "code":"THUGSTOOLS",
+        "pscode":"R2, R2, R1, R2, L1, R2, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, RIGHT, UP",
+        "xboxcode":"RB, RT, LB, RT, Left, Down, Right, Up, Left, Down, Right, Up",
+        "switchcode":"R, ZR, L, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, RIGHT, UP",
+        "details":"Give You Weapon Set #1"
+    },
+    {
+        "id":"8",
+        "code":"PROFESSIONALTOOLS",
+        "pscode":"R1, R2, L1, R2, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, DOWN, LEFT",
+        "xboxcode":"RB, RT, LB, RT, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, DOWN, LEFT",
+        "switchcode":"R, ZR, L, ZR, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, DOWN, LEFT",
+        "details":"Give You Weapon Set #2"
+    },
+    {
+        "id":"9",
+        "code":"NUTTERTOOLS",
+        "pscode":"R1, R2, L1, R2, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, DOWN, DOWN",
+        "xboxcode":" RB, RT, LB, RT, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, DOWN, DOWN",
+        "switchcode":"R, ZR, L, ZR, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, DOWN, DOWN",
+        "details":"Give You Weapon Set #3"
+    },
+    {
+        "id":"10",
+        "code":"YOUWONTTAKEMEALIVE",
+        "pscode":"R1, R1, CIRCLE, R2, LEFT, RIGHT, LEFT, RIGHT, LEFT, RIGHT",
+        "xboxcode":"RB, RB, B, RT, Left, Right, Left, Right, Left, Right",
+        "switchcode":"R, R, A, ZR, LEFT, RIGHT, LEFT, RIGHT, LEFT, RIGHT",
+        "details":"Raise Your Wanted Level"
+    },
+    {
+        "id":"11",
+        "code":"LEAVEMEALONE",
+        "pscode":"R1, R1, CIRCLE, R2, UP, DOWN, UP, DOWN, UP, DOWN.",
+        "xboxcode":"RB, RB, B, RT, Up, Down, Up, Down, Up, Down",
+        "switchcode":"R, R, A, ZR, UP, DOWN, UP, DOWN, UP, DOWN",
+        "details":"Lower Your Wanted Level"
+    },
+    {
+        "id":"12",
+        "code":"BIGBANG",
+        "pscode":"R2, L2, R1, L1, L2, R2, SQUARE, TRIANGLE, CIRCLE, TRIANGLE, L2, L1",
+        "xboxcode":"RT, LT, RB, LB, LT, RT, X, Y, B, Y, LT, LB",
+        "switchcode":"ZR, ZL, R, L, ZL, ZR, Y, X, A, X, ZL, L",
+        "details":"Destroy All Cars"
+    },
+    {
+        "id":"13",
+        "code":"FIGHTFIGHTFIGHT",
+        "pscode":"DOWN, LEFT, UP, LEFT, X, R2, R1, L2, L1",
+        "xboxcode":"Down, Left, Up, Left, A, RT, RB, LT, LB",
+        "switchcode":"DOWN, LEFT, UP, LEFT, B, ZR, R, ZL, L",
+        "details":"Pedestrian Attacking Each Other"
+    },
+    {
+        "id":"14",
+        "code":"OURGODGIVENRIGHTTOBEARARMS",
+        "pscode":"R2, R1, X, Triangle, X, Triangle, Up, Down",
+        "xboxcode":"RT, RB, A, Y, A, Y, Up, Down",
+        "switchcode":"ZR, R, B, X, B, X, UP, DOWN",
+        "details":"Pedestrian Carry Guns"
+    },
+    {
+        "id":"15",
+        "code":"NOBODYLIKESME",
+        "pscode":"Down, Up, Up, Up, X, R2, R1, L2, L2",
+        "xboxcode":"Down, Up, Up, Up, A, RT, RB, LT, LT",
+        "switchcode":"DOWN, UP, UP, UP, B, ZR, R, ZL, ZL",
+        "details":"Pedestrian Attack / Hates You"
+    },
+    {
+        "id":"16",
+        "code":"CHICKSWITHGUNS",
+        "pscode":"-",
+        "xboxcode":"Right, LB, B, LT, Left, A, RB, LB, LB",
+        "switchcode":"RIGHT, L, A, ZL, LEFT, B, R, L, L, B",
+        "details":"Female Peds Carry Guns"
+    },
+    {
+        "id":"17",
+        "code":"FANNYMAGNET",
+        "pscode":"CIRCLE, X, L1, L1, R2, X, X, CIRCLE, TRIANGLE",
+        "xboxcode":"B, A, LB, LB, RT, A, A, B, Y",
+        "switchcode":"A, B, L, L, ZR, B, B, A, X",
+        "details":"Shemale"
+    },
+    {
+        "id":"18",
+        "code":"BETTERTHANWALKING",
+        "pscode":"CIRCLE, L1, UP, R1, L2, X, R1, L1, CIRCLE, X",
+        "xboxcode":"B, LB, Up, RB, LT, A, RB, LB, B, A",
+        "switchcode":"A, L, UP, R, ZL, B, R, L, A, B",
+        "details":"Spawn Golf Caddy"
+    },
+    {
+        "id":"19",
+        "code":"GETTHEREQUICKLY",
+        "pscode":"UP, RIGHT, RIGHT, L1, RIGHT, UP, SQUARE, L2",
+        "xboxcode":"Down, RB, B, LT, LT, A, RB, LB, Left, Left",
+        "switchcode":"DOWN, R, A, ZL, ZL, B, R, L, LEFT, LEFT",
+        "details":"Spawn Bloodring Race Car"
+    },
+    {
+        "id":"20",
+        "code":"GETTHEREVERYFASTINDEED",
+        "pscode":"R1, CIRCLE, R2, RIGHT, L1, L2, X, X, SQUARE, R1",
+        "xboxcode":"RB, B, RT, Right, LB, LT, A, A, X, RB",
+        "switchcode":"R, A, ZR, RIGHT, L, ZL, B, B, Y, R",
+        "details":"Spawn Hotring Racer #1"
+    },
+    {
+        "id":"21",
+        "code":"GETTHEREAMAZINGLYFAST",
+        "pscode":"R2, L1, CIRCLE, RIGHT, L1, R1, RIGHT, UP, CIRCLE, R2",
+        "xboxcode":"RT, LB, B, Right, LB, RB, Right, Up, B, RT",
+        "switchcode":"R, A, ZR, RIGHT, L, ZL, B, B, Y, R",
+        "details":"Spawn Hotring Racer #2"
+    },
+    {
+        "id":"22",
+        "code":"PANZER",
+        "pscode":"CIRCLE, CIRCLE, L1, CIRCLE, CIRCLE, CIRCLE, L1, L2, R1, TRIANGLE, CIRCLE, TRIANGLE",
+        "xboxcode":"B, B, LB, B, B, B, LB, LT, RB, Y, B, Y",
+        "switchcode":"A, A, L, A, A, A, L, ZL, R, X, A, X",
+        "details":"Spawn Tank"
+    },
+    {
+        "id":"23",
+        "code":"ROCKANDROLLCAR",
+        "pscode":"R2, UP, L2, LEFT, LEFT, R1, L1, CIRCLE, RIGHT",
+        "xboxcode":"RT, Up, LT, Left, Left, RB, LB, B, Right",
+        "switchcode":"ZR, UP, ZL, LEFT, LEFT, R, L, A, RIGHT",
+        "details":"Spawn Limo"
+    },
+    {
+        "id":"24",
+        "code":"GETTHEREFAST",
+        "pscode":"RIGHT, L2, DOWN, L2, L2, X, R1, L1, CIRCLE, LEFT",
+        "xboxcode":"Right, LT, Down, LT, LT, A, RB, LB, B, Left",
+        "switchcode":"RIGHT, ZL, DOWN, ZL, ZL, B, R, L, A, LEFT",
+        "details":"Spawn Sabre Turbo"
+    },
+    {
+        "id":"25",
+        "code":"THELASTRIDE",
+        "pscode":"DOWN, R2, DOWN, R1, L2, LEFT, R1, L1, LEFT, RIGHT",
+        "xboxcode":"Down, RT, Down, RB, LT, Left, RB, LB, Left, Right",
+        "switchcode":"DOWN, ZR, DOWN, R, ZL, LEFT, R, L, LEFT, RIGHT",
+        "details":"Spawn Romero"
+    },
+    {
+        "id":"26",
+        "code":"RUBBISHCAR",
+        "pscode":"CIRCLE, R1, CIRCLE, R1, LEFT, LEFT, R1, L1, CIRCLE, RIGHT",
+        "xboxcode":"B, RB, B, RB, Left, Left, RB, LB, B, Right",
+        "switchcode":"A, R, A, R, LEFT, LEFT, R, L, A, RIGHT",
+        "details":"Spawn Garbage Truck"
+    },
+    {
+        "id":"27",
+        "code":"FLYINGWAYS",
+        "pscode":"-",
+        "xboxcode":"-",
+        "switchcode":"-",
+        "details":"Spawn Aeroplane"
+    },
+    {
+        "id":"28",
+        "code":"AMERICAHELICOPTER",
+        "pscode":"-",
+        "xboxcode":"-",
+        "switchcode":"-",
+        "details":"Spawn Hunter Helicopter"
+    },
+    {
+        "id":"29",
+        "code":"IWANTBIGTITS",
+        "pscode":"CIRCLE, R2, DOWN, R1, LEFT, RIGHT, R1, L1, X, L2",
+        "xboxcode":"B, RT, Down, RB, Left, Right, RB, LB, A, LT",
+        "switchcode":"A, ZR, DOWN, R, LEFT, RIGHT, R, L, B, ZL",
+        "details":"Play As Candy Suxx"
+    },
+    {
+        "id":"30",
+        "code":"FOXYLITTLETHING",
+        "pscode":"R2, L1, UP, L1, RIGHT, R1, Right, UP, Circle, Triangle",
+        "xboxcode":"RT, LB, Up, LB, Right, RB, Right, Up, B, Y",
+        "switchcode":"ZR, L, UP, L, RIGHT, R, RIGHT, UP, A, X",
+        "details":"Play As Mercedes"
+    },
+    {
+        "id":"31",
+        "code":"LOOKLIKELANCE",
+        "pscode":"CIRCLE, L2, LEFT, X, R1, L1, X, L1",
+        "xboxcode":"B, LT, Left, A, RB, LB, A, L",
+        "switchcode":"A, ZL, LEFT, B, R, L, B, L",
+        "details":"Play As Lance Vance"
+    },
+    {
+        "id":"32",
+        "code":"MYSONISALAWYER",
+        "pscode":"RIGHT, L1, UP, L2, L1, RIGHT, R1, L1, X, R1",
+        "xboxcode":"Right, LB, Up, LT, LB, Right, RB, LB, A, RB",
+        "switchcode":"RIGHT, L, UP, ZL, L, RIGHT, R, L, B, R",
+        "details":"Play As Ken Rosenberg"
+    },
+    {
+        "id":"33",
+        "code":"ONEARMEDBANDIT",
+        "pscode":" RIGHT, R1, UP, R2, L1, RIGHT, R1, L1, RIGHT, CIRCLE",
+        "xboxcode":"Right, RB, Up, RT, LB, Right, RB, LB, Right, B",
+        "switchcode":"RIGHT, R, UP, ZR, L, RIGHT, R, L, RIGHT, A",
+        "details":"Play As Phil Cassady"
+    },
+    {
+        "id":"34",
+        "code":"ROCKANDROLLMAN",
+        "pscode":"DOWN, L1, DOWN, L2, LEFT, X, R1, L1, X, X",
+        "xboxcode":"Down, LB, Down, LT, Left, A, RB, LB, A, A",
+        "switchcode":"DOWN, L, DOWN, ZL, LEFT, B, R, L, B, B",
+        "details":"Love Fist #1"
+    },
+    {
+        "id":"35",
+        "code":"WELOVEOURDICK",
+        "pscode":"R1, L2, R2, L1, RIGHT, R2, LEFT, X, SQUARE, L1",
+        "xboxcode":"RB, LT, RT, LB, Right, RT, Left, A, X, LB",
+        "switchcode":"R, ZL, ZR, L, RIGHT, ZR, LEFT, B, Y, L",
+        "details":"Love Fist #2"
+    },
+    {
+        "id":"36",
+        "code":"CHEATSHAVEBEENCRACKED",
+        "pscode":"L1, L2, R1, R2, DOWN, L1, R2, L2",
+        "xboxcode":"LB, LT, RB, RT, Down, LB, RT, LT",
+        "switchcode":"L, ZL, R, ZR, DOWN, L, ZR, ZL",
+        "details":"Play As Ricardo Diaz"
+    },
+    {
+        "id":"37",
+        "code":"IDONTHAVETHEMONEYSONNY",
+        "pscode":"L1, L2, R1, R2, DOWN, L1, R2, L2",
+        "xboxcode":"B, LB, B, LT, Left, A, RB, LB, A, A",
+        "switchcode":"A, L, A, ZL, LEFT, A, R, L, B, B",
+        "details":"Play As Sonny Forelli"
+    },
+    {
+        "id":"38",
+        "code":"ALOVELYDAY",
+        "pscode":"R2, X, L1, L1, L2, L2, L2, TRIANGLE",
+        "xboxcode":"RT, A, LB, LB, LT, LT, LT, Y",
+        "switchcode":"ZR, B, L, L, ZL, ZL, ZL, X",
+        "details":"Set Weather To Sunny"
+    },
+    {
+        "id":"39",
+        "code":"CATSANDDOGS",
+        "pscode":"R2, X, L1, L1, L2, L2, L2, CIRCLE",
+        "xboxcode":"RT, A, LB, LB, LT, LT, LT, B",
+        "switchcode":"ZR, B, L, L, ZL, ZL, ZL, A",
+        "details":"Set Weather To Stormy"
+    },
+    {
+        "id":"40",
+        "code":"CANTSEEATHING",
+        "pscode":"R2, X, L1, L1, L2, L2, L2, X",
+        "xboxcode":"RT, A, LB, LB, LT, LT, LT, A",
+        "switchcode":"ZR, B, L , L, ZL, ZL, ZL, B",
+        "details":"Set Weather To Foggy"
+    },
+    {
+        "id":"41",
+        "code":"APLEASANTDAY",
+        "pscode":"R2, X, L1, L1, L2, L2, L2, SQUARE",
+        "xboxcode":"RT, A, LB, LB, LT, LT, LT, X",
+        "switchcode":"ZR, B, L, L, ZL, ZL, ZL, Y",
+        "details":"Set Weather To Overcast"
+    },
+    {
+        "id":"42",
+        "code":"ONSPEED",
+        "pscode":"TRIANGLE, UP, RIGHT, DOWN, SQUARE, R2, R1",
+        "xboxcode":"Y, UP, RIGHT, DOWN, LT, LB, X",
+        "switchcode":"X, UP, RIGHT, DOWN, ZL, L, Y",
+        "details":"Set Fast Motion"
+    },
+    {
+        "id":"43",
+        "code":"BOOOOOORING",
+        "pscode":" TRIANGLE, UP, RIGHT, DOWN, SQUARE, R2, R1",
+        "xboxcode":"Y, Up, Right, Down, X, RT, R",
+        "switchcode":"X, UP, RIGHT, DOWN, Y, ZR, R",
+        "details":"Set Slow Motion"
+    },
+    {
+        "id":"44",
+        "code":"LIFEISPASSINGMEBY",
+        "pscode":"CIRCLE, CIRCLE, L1, SQUARE, L1, SQUARE, SQUARE, SQUARE, L1, TRIANGLE, CIRCLE, TRIANGLE",
+        "xboxcode":"B, B, LB, X, LB, X, X, X, LB, Y, B, Y",
+        "switchcode":"A, A L, Y, L, Y, Y, Y, L, X, A, X",
+        "details":"Faster Game Time"
+    },
+    {
+        "id":"45",
+        "code":"MIAMITRAFFIC",
+        "pscode":"R2, CIRCLE, R1, L2, LEFT, R1, L1, R2, L2.",
+        "xboxcode":"RT, B, RB, LT, Left, RB, LB, RT, LT",
+        "switchcode":"ZR, A, R, ZL, LEFT, R, L, ZR, ZL",
+        "details":"Increase Traffic"
+    },
+    {
+        "id":"46",
+        "code":" GREENLIGHT",
+        "pscode":"RIGHT, R1, UP, L2, L2, LEFT, R1, L1, R1, R1",
+        "xboxcode":"RIGHT, RB, UP, LT, LT, LEFT, RB, LB, RB, RB",
+        "switchcode":"R, UP, ZL, ZL, LEFT, R, L, R, R",
+        "details":"Set Traffic Light to Green"
+    },
+    {
+        "id":"47",
+        "code":" IWANTITPAINTEDBLACK",
+        "pscode":"CIRCLE, L2, UP, R1, LEFT, X, R1, L1, LEFT, CIRCLE",
+        "xboxcode":"B, LT, Up, RB, Left, A, RB, LB, Left, B",
+        "switchcode":"A, ZL, UP, R, LEFT, B, R, L, LEFT, A",
+        "details":"All Vehicles Are Black"
+    },
+    {
+        "id":"48",
+        "code":" AHAIRDRESSERSCAR",
+        "pscode":"CIRCLE, L1, DOWN, L2, LEFT, X, R1, L1, RIGHT, CIRCLE",
+        "xboxcode":"B, LB, Down, LT, Left, A, RB, LB, Right, B",
+        "switchcode":"A, L, DOWN, ZL, LEFT, B, R, L, RIGHT, A",
+        "details":"All Vehicles Are Pink"
+    },
+    {
+        "id":"49",
+        "code":" WHEELSAREALLINEED",
+        "pscode":"Triangle, L1, Triangle, R2, Square, L1, L1",
+        "xboxcode":"Y, LB, Y, RT, X, LB, LB",
+        "switchcode":"-",
+        "details":"Set Cars to Invisible"
+    },
+    {
+        "id":"50",
+        "code":" LOADSOFLITTLETHINGS",
+        "pscode":"R1, X, TRIANGLE, RIGHT, R2, SQUARE, UP, DOWN, SQUARE",
+        "xboxcode":"RB, A, Y, RIGHT, RT, A, UP, DOWN, A",
+        "switchcode":"R, B, X, RIGHT, ZR, Y, UP, DOWN, Y",
+        "details":"Make car wheel Big"
+    },
+    {
+        "id":"51",
+        "code":" TRAVELINSTYLE",
+        "pscode":"UP, RIGHT, RIGHT, L1, RIGHT, UP, SQUARE, L2",
+        "xboxcode":"Up, Right, Right, LB, Right, Up, X, LT",
+        "switchcode":"UP, RIGHT, RIGHT, L, RIGHT, UP, Y, ZL",
+        "details":"Spawn Bloodring Banger"
+    },
+    {
+        "id":"52",
+        "code":"-",
+        "pscode":"R1, CIRCLE, R2, L1, RIGHT, R1, L1, X, R2",
+        "xboxcode":"RB, B, RT, LB, Right, RB, LB, A, RT",
+        "switchcode":"R, A, ZR, L, RIGHT, R, L, B, ZR",
+        "details":"Play As Hilary King"
+    }
+]
