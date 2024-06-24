@@ -1,4 +1,4 @@
-// Api to get GTA V Cheats from MongoDB
+// Api to get GTA III Cheats from MongoDB
 import { connectToDatabase } from '@/lib/mongodb';
 import { NextResponse } from 'next/server';
 
