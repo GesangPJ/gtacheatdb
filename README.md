@@ -29,4 +29,6 @@ Grand Theft Auto is a trademark and copyright of Rockstar Games. Please be aware
 
 **NINTENDO SWITCH** and Nintendo-related trademarks are the property of Nintendo Co., Ltd.
 
+This source code is not affiliated with, endorsed, sponsored, or specifically approved by Rockstar Games, Sony, Nintendo or Microsoft.
+
 All trademarks and copyrights are the property of their respective owners.
