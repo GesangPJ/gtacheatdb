@@ -10,7 +10,7 @@ Using MongoDB to save the data, plain JSON available.
 - GTA : San Andreas
 - GTA : IV
 - GTA : V
-  
+
 ## Platform Available (Depends On The Game)
 
 - Desktop PC
@@ -28,3 +28,5 @@ Grand Theft Auto is a trademark and copyright of Rockstar Games. Please be aware
 **PlayStaion** and PlayStation-related trademarks are the property of Sony Interactive Entertainment Inc.
 
 **NINTENDO SWITCH** and Nintendo-related trademarks are the property of Nintendo Co., Ltd.
+
+All trademarks and copyrights are the property of their respective owners.
