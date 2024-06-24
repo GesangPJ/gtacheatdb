@@ -97,7 +97,7 @@ const Home = () => {
         <strong>Nintendo Switch</strong> and Nintendo-related trademarks are the property of Nintendo Co., Ltd.
         </p>
         <p>
-          This website and website source code is not affiliated with, endorsed, sponsored, or specifically approved by Rockstar Games, Sony, or Microsoft.
+          This website and website source code is not affiliated with, endorsed, sponsored, or specifically approved by Rockstar Games, Sony, Nintendo or Microsoft.
         </p>
         <p>
         All trademarks and copyrights are the property of their respective owners.
