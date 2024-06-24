@@ -166,6 +166,9 @@ const GTA3 = () => {
         <strong>Xbox</strong> and Xbox-related trademarks are the property of Microsoft Corporation.
         </p>
         <p>
+        <strong>Nintendo Switch</strong> and Nintendo trademarks are the property of Nintendo Co., Ltd.
+        </p>
+        <p>
           This website and website source code is not affiliated with, endorsed, sponsored, or specifically approved by Rockstar Games, Sony, or Microsoft.
         </p>
         <p>
