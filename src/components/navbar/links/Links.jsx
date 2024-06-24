@@ -7,12 +7,12 @@ import { useState } from "react"
 const links=
     [
         {
-            title:"GTA VICE CITY",
-            path:"/gtavc"
-        },
-        {
             title:"GTA 3",
             path:"/gta3",
+        },
+        {
+            title:"GTA VICE CITY",
+            path:"/gtavc"
         },
         {
             title:"GTA SAN ANDREAS",
