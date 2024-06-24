@@ -5,11 +5,11 @@ const MONGODB_URI = process.env.MONGODB_URI;
 const MONGODB_DB = 'gta-cheat-db'; // replace with your MongoDB database name
 
 if (!MONGODB_URI) {
-  throw new Error('Masukkan URI MongoDB di .env.local!');
+  throw new Error('MongoDB URI not Found!');
 }
 
 if (!MONGODB_DB) {
-  throw new Error('Masukkan Nama Database!');
+  throw new Error('Database name not found!');
 }
 
 let cachedClient = null;
