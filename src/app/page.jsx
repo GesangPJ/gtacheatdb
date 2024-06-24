@@ -82,7 +82,7 @@ const Home = () => {
         )}
       </div>
       <div class="disclaimer text-white text-sm mt-9 mb-9">
-        <p>
+      <p>
           <strong>Disclaimer:</strong> This website provides information about available cheats in various Grand Theft Auto (GTA) games. 
           Grand Theft Auto is a trademark and copyright of Rockstar Games. 
           Please be aware that using cheats may disable or lock game achievements and affect your gaming experience.
@@ -92,6 +92,9 @@ const Home = () => {
         </p>
         <p>
         <strong>Xbox</strong> and Xbox-related trademarks are the property of Microsoft Corporation.
+        </p>
+        <p>
+        <strong>Nintendo Switch</strong> and Nintendo-related trademarks are the property of Nintendo Co., Ltd.
         </p>
         <p>
           This website and website source code is not affiliated with, endorsed, sponsored, or specifically approved by Rockstar Games, Sony, or Microsoft.
