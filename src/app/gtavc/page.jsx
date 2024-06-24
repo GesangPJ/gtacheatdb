@@ -9,7 +9,7 @@ const GTAVC = () => {
 
   useEffect(() => {
     async function fetchCheats() {
-      const res = await fetch('/api/gta-vc')
+      const res = await fetch('/api/gtavc')
       const data = await res.json()
       setCheats(data.data)
       setLoading(false)
@@ -164,6 +164,9 @@ const GTAVC = () => {
         </p>
         <p>
         <strong>Xbox</strong> and Xbox-related trademarks are the property of Microsoft Corporation.
+        </p>
+        <p>
+        <strong>Nintendo Switch</strong> and Nintendo trademarks are the property of Nintendo Co., Ltd.
         </p>
         <p>
           This website and website source code is not affiliated with, endorsed, sponsored, or specifically approved by Rockstar Games, Sony, or Microsoft.
