@@ -20,6 +20,12 @@ Using MongoDB to save the data, plain JSON available.
 - XBOX
 - Nintendo Switch
 
+## CONTAINER VERSION
+
+Container Image version is available, if you want to use MongoDB put your MongoDB URI in the docker compose file,
+follow the docker-compose to build the container.
+
+
 <img src="https://github.com/GesangPJ/gtacheatdb/blob/main/public/ss02.png" width="900" height="460">
 
 <img src="https://github.com/GesangPJ/gtacheatdb/blob/main/public/ss03.png" width="900" height="460">
